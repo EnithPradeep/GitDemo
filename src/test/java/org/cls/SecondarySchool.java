@@ -10,4 +10,14 @@ public class SecondarySchool {
 	public void Maths() {
 		System.out.println("Maths Subject");
 	}
+	
+	public void Science() {
+		System.out.println("Science Subject");
+	}
+	public void Social() {
+		System.out.println("Social Subject");
+	}
+	public void Enviroinment() {
+		System.out.println("Environment Subject");
+	}
 }
